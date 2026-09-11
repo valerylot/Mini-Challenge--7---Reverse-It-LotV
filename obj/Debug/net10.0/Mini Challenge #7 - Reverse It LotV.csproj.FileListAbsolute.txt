@@ -1,0 +1,14 @@
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #7 - Reverse It LotV/bin/Debug/net10.0/Mini Challenge #7 - Reverse It LotV
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #7 - Reverse It LotV/bin/Debug/net10.0/Mini Challenge #7 - Reverse It LotV.deps.json
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #7 - Reverse It LotV/bin/Debug/net10.0/Mini Challenge #7 - Reverse It LotV.runtimeconfig.json
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #7 - Reverse It LotV/bin/Debug/net10.0/Mini Challenge #7 - Reverse It LotV.dll
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #7 - Reverse It LotV/bin/Debug/net10.0/Mini Challenge #7 - Reverse It LotV.pdb
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #7 - Reverse It LotV/obj/Debug/net10.0/Mini Challenge #7 - Reverse It LotV.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #7 - Reverse It LotV/obj/Debug/net10.0/Mini Challenge #7 - Reverse It LotV.AssemblyInfoInputs.cache
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #7 - Reverse It LotV/obj/Debug/net10.0/Mini Challenge #7 - Reverse It LotV.AssemblyInfo.cs
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #7 - Reverse It LotV/obj/Debug/net10.0/Mini Challenge #7 - Reverse It LotV.csproj.CoreCompileInputs.cache
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #7 - Reverse It LotV/obj/Debug/net10.0/Mini Challenge #7 - Reverse It LotV.dll
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #7 - Reverse It LotV/obj/Debug/net10.0/refint/Mini Challenge #7 - Reverse It LotV.dll
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #7 - Reverse It LotV/obj/Debug/net10.0/Mini Challenge #7 - Reverse It LotV.pdb
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #7 - Reverse It LotV/obj/Debug/net10.0/Mini Challenge #7 - Reverse It LotV.genruntimeconfig.cache
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Mini Challenge #7 - Reverse It LotV/obj/Debug/net10.0/ref/Mini Challenge #7 - Reverse It LotV.dll
