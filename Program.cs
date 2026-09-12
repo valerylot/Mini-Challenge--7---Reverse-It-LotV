@@ -2,8 +2,8 @@
 //09/11/2026
 //Mini Challenge #7 Reverse It
 //We used a for loop to reverse a number sequence by decrementing it. Then we used a while loop if the user wanted to play the game again.
-//Peer Review Name:
-//Review:
+//Peer Review Name: Zionn Showers
+//Review: Code looks fine and runs as expected. :)
 
 Console.Clear();
 
